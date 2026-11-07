@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-label="Featured project: SHR Sports — Play. Train. Perform. A sports and gym-equipment store built solo as a pnpm and Turborepo monorepo: Next.js storefront and admin, an Express and TypeScript API, and a PostgreSQL database with Prisma.">
+  <title>SHR Sports — featured project</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1D3A"/><stop offset="1" stop-color="#06111F"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#C6F432" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#C6F432" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#FFFFFF" fill-opacity="0.07"/>
+    </pattern>
+    
+  </defs>
+  <style>
+    .flow { stroke-dasharray: 6 9; animation: flow 1.4s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -30; } }
+  </style>
+  
+  <rect width="1200" height="470" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="470" rx="22" fill="url(#dots)"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="468.5" rx="21.5" fill="none" stroke="#1F3B63" stroke-width="1.5"/>
+  <circle cx="200" cy="420" r="300" fill="url(#glow)"/>
+  <text x="64" y="76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="3" fill="#8FA3BF">FEATURED PROJECT</text>
+  <g transform="translate(64,96)">
+    <polygon points="14,4 40,4 22,84 -4,84" fill="#C6F432"/>
+    <text x="46" y="78" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Inter, Arial, sans-serif" font-size="92" font-weight="900" font-style="italic" fill="#EEF3FA" letter-spacing="-3">SHR</text>
+    <text x="50" y="114" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Inter, Arial, sans-serif" font-size="22" font-weight="800" font-style="italic" fill="#EEF3FA" letter-spacing="13">SPORTS</text>
+  </g>
+  <text x="64" y="252" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#C6F432">Play. Train. Perform.</text>
+  <text font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Inter, Arial, sans-serif" font-size="17" fill="#8FA3BF">
+    <tspan x="64" y="292">My own sports &amp; gym-equipment store,</tspan>
+    <tspan x="64" y="317">designed and built solo — storefront,</tspan>
+    <tspan x="64" y="342">admin panel, API and database.</tspan>
+  </text>
+  <g>
+    <rect x="64" y="374" width="190" height="42" rx="21" fill="#C6F432"/>
+    <text x="159" y="401" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#0B1D3A">shrsports.com  →</text>
+  </g>
+  <rect x="470" y="52" width="690" height="370" rx="18" fill="#06111F" fill-opacity="0.55" stroke="#1F3B63" stroke-width="1.5" stroke-dasharray="6 6"/>
+  <text x="492" y="84" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="2" fill="#8FA3BF">PNPM + TURBOREPO MONOREPO</text>
+  <path class="flow" d="M640.0,182 C640.0,212 815.0,190 815.0,220" fill="none" stroke="#C6F432" stroke-width="2"/>
+  <path class="flow" d="M990.0,182 C990.0,212 815.0,190 815.0,220" fill="none" stroke="#C6F432" stroke-width="2"/>
+  <path class="flow" d="M815.0,286 L815.0,324" fill="none" stroke="#C6F432" stroke-width="2"/>
+  
+    <rect x="530" y="116" width="220" height="66" rx="12" fill="#0F2444" stroke="#1F3B63" stroke-width="1.5"/>
+    <text x="640.0" y="145" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#EEF3FA">Storefront</text>
+    <text x="640.0" y="166" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#8FA3BF">Next.js · shrsports.com</text>
+  
+    <rect x="880" y="116" width="220" height="66" rx="12" fill="#0F2444" stroke="#1F3B63" stroke-width="1.5"/>
+    <text x="990.0" y="145" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#EEF3FA">Admin</text>
+    <text x="990.0" y="166" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#8FA3BF">Next.js · dashboard</text>
+  
+    <rect x="705.0" y="220" width="220" height="66" rx="12" fill="#C6F432" stroke="#C6F432" stroke-width="1.5"/>
+    <text x="815.0" y="249" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#0B1D3A">API</text>
+    <text x="815.0" y="270" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#0B1D3A">Express + TypeScript</text>
+  
+    <rect x="705.0" y="324" width="220" height="66" rx="12" fill="#0F2444" stroke="#1F3B63" stroke-width="1.5"/>
+    <text x="815.0" y="353" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#EEF3FA">Database</text>
+    <text x="815.0" y="374" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#8FA3BF">Prisma · PostgreSQL</text>
+  <text x="1138" y="402" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#8FA3BF">ready for POS · branches · warehouses</text>
+</svg>
